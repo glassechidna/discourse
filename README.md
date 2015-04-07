@@ -1,4 +1,4 @@
-Note: This is a fork of Discourse specifically for [deploying to Heroku](docs/HEROKU.md).
+Note: This is a fork of Discourse specifically for [deploying to Dokku](docs/DOKKU.md).
 
 <a href="http://www.discourse.org/">![Logo](images/discourse.png)</a>
 
